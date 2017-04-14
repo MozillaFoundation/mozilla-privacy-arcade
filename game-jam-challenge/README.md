@@ -9,16 +9,16 @@ How can we use the web to teach and learn about online safety in fun, low-risk w
 That’s the question behind this Game Jam Challenge. Your job is to prototype a web-native game or series of micro-games that let players:
 
 - ***Have fun in a safe, inviting, and empowering environment*** tackling conceptual and practical privacy and security problems in low-risk ways.
-- ***Learn strong online safety habits*** related to privacy and security.
+- ***Learn strong [online safety habits](https://www.mozilla.org/en-US/internet-health/)*** related to privacy and security.
 - ***Learn about privacy and security threats*** facing them online.
 - ***Use transferrable mechanics*** that help them solve in-game challenges with habits and skills they can use elsewhere on the Internet.
-- ***Connect privacy and security to other Internet health issues*** like web literacy and decentralization.
+- ***Connect privacy and security to other Internet health issues*** like [digital inclusion](https://www.mozilla.org/en-US/internet-health/digital-inclusion/).
 
 Here are some ideas to get you started. For example, players could:
 
 - ***Solve an increasingly complex series of color-based puzzles*** to decrypt coded messages that advance the story or provide tips for healthy online habits.
 - ***Defeat or avoid a variety of privacy-invading enemies*** (or mobs) that represent the different threats they face to their own privacy and security on the web.
-- ***Build a healthy Internet*** as if they were playing a city-builder or tower-defense game with privacy and security safeguards (including decentralization) ensuring the safety of the network they build.
+- ***Build a [healthy Internet](https://www.mozilla.org/en-US/internet-health/)*** as if they were playing a city-builder or tower-defense game with privacy and security safeguards (including decentralization) ensuring the safety of the network they build.
 
 The big idea is to invent and prototype a web-native game that helps players use what they learn about privacy and security to protect themselves on the web.
 

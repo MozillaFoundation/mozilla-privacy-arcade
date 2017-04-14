@@ -13,8 +13,8 @@ In the world of Cryptomancer ***"crystal shards" are like smart phones*** - they
 For the Mozilla Privacy Arcade Cryptomancer Challenge, your job is to create an adventure for Cryptomancer that allows players to:
 
 - ***Create a safe and inviting space for players from diverse backgrounds.*** You should be able to run this adventure at a local game store (LGS), library, or cafe, and anyone curious about the game should feel welcomed and empowered by your storytelling.
-- ***Enact strong online safety habits*** like encryption, trust-building, and two-factor authentication.
-- ***Enact core Internet health principles*** like digital inclusion in their adventures. For example, if you incorporated privacy and digital inclusion into your adventure, characters in your story would be working for a goal that made the game world feel more secure, but also more welcome for all, regardless of race, income, nationality, or gender. 
+- ***Enact strong [online safety habits](https://www.mozilla.org/en-US/internet-health/)*** like encryption, trust-building, and two-factor authentication.
+- ***Enact core Internet health principles*** like [digital inclusion](https://www.mozilla.org/en-US/internet-health/digital-inclusion/) in their adventures. For example, if you incorporated privacy and digital inclusion into your adventure, characters in your story would be working for a goal that made the game world feel more secure, but also more welcome for all, regardless of race, income, nationality, or gender. 
 - ***Successfully problem-solve in-game challenges*** related to privacy, security, and inclusion.
 - ***Make connections*** between in-game experiences and local online safety and inclusion issues. 
 

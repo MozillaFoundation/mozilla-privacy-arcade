@@ -12,7 +12,7 @@ It’s more important than ever to understand the choices we face online about p
 
 How can we keep ourselves safe - and how can we keep our data private - when so many businesses and governments want to know everything we do on the Internet?
 
-On a healthy Internet, privacy doesn’t mean you have something to hide. It means you have the ability to choose who knows where you go and what you do. At Mozilla, we work to provide tools and fight for policies that respect people’s identity and data across the Internet. 
+On a [healthy Internet](https://www.mozilla.org/en-US/internet-health/), privacy doesn’t mean you have something to hide. It means you have the ability to choose who knows where you go and what you do. At Mozilla, we work to provide tools and fight for policies that respect people’s identity and data across the Internet. 
 
 During the 2017 Global Sprint, we invite you to do the same by contributing to the Mozilla Privacy Arcade. 
 

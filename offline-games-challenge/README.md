@@ -11,8 +11,8 @@ That's the questions this Offline Games Challenge seeks to answer.
 For the Mozilla Privacy Arcade Offline Game Challenge, your job is to invent games that let players:
 
 - ***Participate in a fun, safe, and inviting environment*** that welcomes players of diverse backgrounds.
-- ***Enact strong online safety habits*** through offline childhood, playground, and tabletop games.
-- ***Enact core Internet health principles,*** such as digital inclusion. For example, if you incorporated privacy and digital inclusion into your game, part of winning might be making sure that all players successfully finish the game together in different ways or by using different roles.
+- ***Enact strong [online safety habits](https://www.mozilla.org/en-US/internet-health/)*** through offline childhood, playground, and tabletop games.
+- ***Enact core Internet health principles,*** such as [digital inclusion](https://www.mozilla.org/en-US/internet-health/digital-inclusion/). For example, if you incorporated privacy and digital inclusion into your game, part of winning might be making sure that all players successfully finish the game together in different ways or by using different roles.
 - ***Make their learning as visible or invisible as they want.*** For example, players should be able to look like they're playing a harmless game in places where its difficult for them to teach and learn about privacy and security in the open.
 - ***Make connections and transfer skills*** between their games and real-life opportunities to practice online safety.
 
