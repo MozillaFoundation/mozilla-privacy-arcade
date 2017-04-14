@@ -1,6 +1,6 @@
 # Offline Games Challenge
 
-**Challenge Leads:** Chad Sansing,
+**Challenge Leads:** Chad Sansing, [still recruiting....]
 
 ## Description
 
