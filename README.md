@@ -29,6 +29,10 @@ Click through the link on each Mozilla Privacy Arcade challenge to learn how to 
 
 Each folder will have a copy of our Code of Conduct and Participation Guidelines, as well a README describing its challenge.
 
+You'll also find a "vision" and "open canvas" for each project that illustrate goals, as well as "personas" thay might help you think of the kinds of people you can recruit to help you with your contributions to these challenges.
+
+Finally, each challenge has a "roadmap" detailing its timeline and deadlines.
+
 ## Can I Get To Work Before the Sprint?
 
 Of course. It's fine to begin the sprint with work already in-hand. You should feel free to set up for the sprint however you'd like. You might:
