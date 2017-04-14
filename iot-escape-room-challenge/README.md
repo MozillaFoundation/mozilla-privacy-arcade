@@ -1,8 +1,8 @@
-#IoT Escape Room Challenge
+# IoT Escape Room Challenge
 
 **Challenge Leads:** Chad Sansing, Michelle Thorne, Martin Skelly, [still recruiting....]
 
-##Description
+## Description
 
 How can we build a healthier Internet of Things and get away from poorly designed devices?
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started. Participants might use the devices to:
 
 Share your design in the IoT Escape Room folder of our Mozilla Privacy Arcade repo and keep us up-to-date on your work by tweeting at [@MozLearn](https://twitter.com/mozlearn) with the hashtag #mozsprint. More about repos below.
 
-##What Kinds of Skills Do I Need? What Kinds of Things Can I Make?
+## What Kinds of Skills Do I Need? What Kinds of Things Can I Make?
 
 There are lots of ways to contribute to this project that use different skills and talents. For example:
 
@@ -66,13 +66,13 @@ All of our contributors and their work deserve care and thanks.
 
 If you're unsure of what to contribute or how to contribute a piece of work, never hesitate to ask a project lead for help. We are here to support you and will be answering questions throughout the sprint.
 
-##Are You New to Escape Rooms or the Internet of Things?
+## Are You New to Escape Rooms or the Internet of Things?
 
 Whether you live in a connected home or are new to IoT or the Global Sprint, we want to make sure you feel welcome to contribute to the project of your choice. 
 
 These resources might be helpful to you if you’re wondering how to begin with the Internet of Things or escape rooms.
 
-###Beginner IoT Resources
+### Beginner IoT Resources
 
 - [How It Works: Internet of Things](https://www.youtube.com/watch?v=QSIPNhOiMoE)
 - [IOT Life Simplified with Connected Devices](https://www.youtube.com/watch?v=VoqvPPetDH0)
@@ -80,7 +80,7 @@ These resources might be helpful to you if you’re wondering how to begin with 
 - [Future of the Internet of Things](https://www.youtube.com/watch?v=CH2N9fy1xSU)
 - [Internet of Things With Raspberry Pi - 1](http://www.instructables.com/id/Simple-IOT-project-for-Beginners/) 
 
-###Beginner Escape Room Resources
+### Beginner Escape Room Resources
 
 - [Tips to escape! A beginners guide to escaping the room!](http://www.floridaescaperooms.com/uncategorized/tips-escape-beginners-guide-escaping-room/)
 - [Top 23 Tips & Tricks to Win Escape Room Games](https://escaperoomtips.com/guide/tips-tricks-to-escape)
@@ -90,7 +90,7 @@ These resources might be helpful to you if you’re wondering how to begin with 
 - [Escape Rooms, the new type of entertainment in Egypt](https://www.youtube.com/watch?v=Js7Y67iDpMA) 
 
 
-##Can I Get To Work Before the Sprint?
+## Can I Get To Work Before the Sprint?
 
 Of course. It's fine to begin the sprint with work already in-hand. You should feel free to set up for the sprint however you'd like. You might:
 
@@ -100,7 +100,7 @@ Of course. It's fine to begin the sprint with work already in-hand. You should f
 
 Just keep in mind that we're asking you to license the work openly so our everyone can use, adapt, and build upon your contributions (see more about licensing below). 
 
-##How To Share Your Work
+## How To Share Your Work
 
 We’ve set up a repo for the projects you make in response to these challenges. You can check out what the greater Global Sprint community is up to on the [2017 Global Sprint landing page](https://mozilla.github.io/global-sprint/). 
 
@@ -124,7 +124,7 @@ There is no wrong way to contribute, and project and challenge leads are here to
 
 Thank you for your contributions to the challenges in our Mozilla Privacy Arcade project.
 
-##How To File an Issue on GitHub
+## How To File an Issue on GitHub
 
 GitHub can be challenging for new users. If you experience difficulty with it, you are not alone. We want to help you overcome those challenges or find a way to contribute that works for you.
 
@@ -161,7 +161,7 @@ After you apply all your labels, your issue should have a #mozsprint label, your
 
 If you'd like to learn even more about GitHub, check out the [*GitHub for Collaboration* section](https://mozilla.github.io/open-leadership-training-series/articles/github-for-collaboration/) of Mozilla's [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/articles/github-for-collaboration/).
 
-##How To Host a Site
+## How To Host a Site
 
 If you organize a team for the Global Sprint or would like to run a "site" - like a meet-up at a community center or in a learning space or makerspace - visit [this page](https://mozilla.github.io/global-sprint/site-hosts/) to learn how to register your event.
 
@@ -175,17 +175,17 @@ Site leaders receive support from project and challenge leads to help people lea
 
 If you would like to host and register a site, let a project lead know how to help. We will make sure you feel well prepared to host a site.
 
-##When To Sprint
+## When To Sprint
 
 This year’s Global Sprint runs for 48 hours from June 1st, 2017, to June 2nd, 2017. Sprint hours are 9 AM to 5 PM in your local timezone. You can sprint for a few hours, for a day, or for both days. You can contribute to 1 project or several. There is no wrong way to participate in the sprint.
 
-##How To Follow the Sprint Online
+## How To Follow the Sprint Online
 
 We will be curating and sharing your work throughout the sprint, so keep in touch and let us know how things are going at [@MozLearn](https://twitter.com/mozlearn) on Twitter using the hashtag #mozsprint.
 
 You can also see "Featured Projects" on Mozilla's [Network Pulse](https://www.mozillapulse.org/featured), our resource for sharing exciting events and resources with our community.
 
-##After the Sprint
+## After the Sprint
 
 We’d love to keep up with you after the Global Sprint, as well, to follow the development of your projects. ***We can also help you write a session proposal for this year’s MozFest.***
 
