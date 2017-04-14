@@ -14,7 +14,7 @@ On a healthy Internet, privacy doesn’t mean you have something to hide. It mea
 
 During the 2017 Global Sprint, we invite you to do the same by contributing to the Mozilla Privacy Arcade. 
 
-The Mozilla Privacy Arcade is a set of 3, game-based privacy and security challenges meant to help people learn strong online safety habits in fun, low-risk ways.
+The Mozilla Privacy Arcade is a set of 4, game-based privacy and security challenges meant to help people learn strong online safety habits in fun, low-risk ways.
 
 ## Our Challenges
 
@@ -23,6 +23,7 @@ Click through the link on each Mozilla Privacy Arcade challenge to learn how to 
 - [The Cryptomancer Challenge.](/cryptomancer-challenge/)
 - [Privacy and Security Game Jam Challenge.](/game-jam-challenge/)
 - [The IoT Escape Room Challenge.](/iot-escape-room-challenge/)
+- [Offline Games Challenge.](/offline-games-challenge/)
 
 Each folder will have a copy of our Code of Conduct and Participation Guidelines, as well a README describing its challenge.
 
