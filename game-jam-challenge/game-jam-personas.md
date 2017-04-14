@@ -1,4 +1,4 @@
-#Game Jam Challenge Personas
+# Game Jam Challenge Personas
 
 A persona is
 
