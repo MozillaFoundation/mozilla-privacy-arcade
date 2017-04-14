@@ -1,4 +1,4 @@
-#Cryptomancer Challenge Roadmap
+# Cryptomancer Challenge Roadmap
 
 - **May, 2017:** Request a DRM-free copy of Cryptomancer from a project lead. Cryptomancer is kindly provided free-of-charge for the Global Sprint by the game’s authors. If you live in a place with a lot of local makerspaces and/or interest in this project, consider organizing a meet-up from 9-5, local time, each day of the sprint for face-to-face work.
 - **May 31, 2017:** Finish reading Cryptomancer and post questions about the game to Mozilla Privacy Arcade repo.

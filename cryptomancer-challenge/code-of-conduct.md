@@ -1,4 +1,4 @@
-#Code of Conduct:
+# Code of Conduct:
 
 As contributors to the Mozilla Privacy Arcade project, we agree to:
 

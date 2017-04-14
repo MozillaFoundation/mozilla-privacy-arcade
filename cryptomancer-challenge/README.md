@@ -1,8 +1,8 @@
-#Cryptomancer Challenge
+# Cryptomancer Challenge
 
 **Challenge Leads:** Chad Sansing, Chad Walker, Antero Garcia, [still recruiting....]
 
-##Description
+## Description
 
 What happens when the Internet shows up in a fantasy world full of mythical creatures?
 
@@ -28,11 +28,11 @@ Here are some ideas for generating your own adventures. For example, players cou
 
 Cryptomancer is cast with western fantasy characters and ideas, but you can localize your adventure to reflect beliefs, customs, expertise, stories, and traditions local to you and your players.
 
-To help you prepare for adventure, we’ve partnered with Cryptomancer to provide free licenses for the game throughout the Global Sprint. Contact a project lead to receive a download code for your free copy of the game for use in the Cryptomancer Challenge.
+***Check back in May, 2017, to learn how you can access a copy of Cryptomancer to help you prepare for the sprint.***
 
 Share your adventure in the Cryptomancer Challenge folder of our Mozilla Privacy Arcade repo and keep us up-to-date on your work by tweeting at [@MozLearn](https://twitter.com/mozlearn) with the hashtag #mozsprint. More about repos below.
 
-##What Kinds of Skills Do I Need? What Kinds of Things Can I Make?
+## What Kinds of Skills Do I Need? What Kinds of Things Can I Make?
 
 There are lots of ways to contribute to this project that use different skills and talents. For example:
 
@@ -46,7 +46,7 @@ All of our contributors and their work deserve care and thanks.
 
 If you're unsure of what to contribute or how to contribute a piece of work, never hesitate to ask a project lead for help. We are here to support you and will be answering questions throughout the sprint.
 
-##Are You New to Information Security or Role-Playing Games?
+## Are You New to Information Security or Role-Playing Games?
 
 Whether you're a veteran of 1000 campaigns or a newcomer to information security, role-playing games (RPGs), or the Global Sprint, we want to make sure you feel welcome contributing to the project of your choice.
 
@@ -61,7 +61,7 @@ These resources might help you get started with information security and RPGs.
 - [Virtual Privacy Lab](https://sjpl.org/privacy)
 - [Technical Safety Guide](https://iheartmob.org/resources/tech)
 
-###Role-Playing Games
+### Role-Playing Games
 
 - [5 Tips for Better Inclusion in Tabletop Games](http://geekandsundry.com/5-tips-for-better-inclusion-in-tabletop-games/)
 - ["Role Playing Games" on the Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Roleplaying_games)
@@ -69,7 +69,7 @@ These resources might help you get started with information security and RPGs.
 - [Ki Khanga: The Sword and Soul Role Playing Game](https://www.kickstarter.com/projects/mvmedia/ki-khanga-a-sword-and-soul-role-playing-game/description)
 - [Ehdrigohr](https://www.kickstarter.com/projects/601893462/ehdrigohr-the-roleplaying-game)
 
-##Can I Get To Work Before the Sprint?
+## Can I Get To Work Before the Sprint?
 
 Of course. It's fine to begin the sprint with work already in-hand. You should feel free to set up for the sprint however you'd like. You might:
 
@@ -79,7 +79,7 @@ Of course. It's fine to begin the sprint with work already in-hand. You should f
 
 Just keep in mind that we're asking you to license the work openly so our everyone can use, adapt, and build upon your contributions (see more about licensing below). 
 
-##How To Share Your Work
+## How To Share Your Work
 
 We’ve set up a repo for the projects you make in response to these challenges. You can check out what the greater Global Sprint community is up to on the [2017 Global Sprint landing page](https://mozilla.github.io/global-sprint/). 
 
@@ -103,7 +103,7 @@ There is no wrong way to contribute, and project and challenge leads are here to
 
 Thank you for your contributions to the challenges in our Mozilla Privacy Arcade project.
 
-##How To File an Issue on GitHub
+## How To File an Issue on GitHub
 
 GitHub can be challenging for new users. If you experience difficulty with it, you are not alone. We want to help you overcome those challenges or find a way to contribute that works for you.
 
@@ -140,7 +140,7 @@ After you apply all your labels, your issue should have a #mozsprint label, your
 
 If you'd like to learn even more about GitHub, check out the [*GitHub for Collaboration* section](https://mozilla.github.io/open-leadership-training-series/articles/github-for-collaboration/) of Mozilla's [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/articles/github-for-collaboration/).
 
-##How To Host a Site
+## How To Host a Site
 
 If you organize a team for the Global Sprint or would like to run a "site" - like a meet-up at a community center or in a learning space or makerspace - visit [this page](https://mozilla.github.io/global-sprint/site-hosts/) to learn how to register your event.
 
@@ -154,17 +154,17 @@ Site leaders receive support from project and challenge leads to help people lea
 
 If you would like to host and register a site, let a project lead know how to help. We will make sure you feel well-prepared to host a site.
 
-##When To Sprint
+## When To Sprint
 
 This year’s Global Sprint runs for 48 hours from June 1st, 2017, to June 2nd, 2017. Sprint hours are 9 AM to 5 PM in your local timezone. You can sprint for a few hours, for a day, or for both days. You can contribute to 1 project or several. There is no wrong way to participate in the sprint.
 
-##How To Follow the Sprint Online
+## How To Follow the Sprint Online
 
 We will be curating and sharing your work throughout the sprint, so keep in touch and let us know how things are going at [@MozLearn](https://twitter.com/mozlearn) on Twitter using the hashtag #mozsprint.
 
 You can also see "Featured Projects" on Mozilla's [Network Pulse](https://www.mozillapulse.org/featured), our resource for sharing exciting events and resources with our community.
 
-##After the Sprint
+## After the Sprint
 
 We’d love to keep up with you after the Global Sprint, as well, to follow the development of your projects. ***We can also help you write a session proposal for this year’s MozFest.***
 
