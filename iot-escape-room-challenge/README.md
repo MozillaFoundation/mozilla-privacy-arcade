@@ -157,7 +157,7 @@ We also have labels for site-related news, as well as for finding help and answe
 - help-wanted is red.
 - questions are blue.
 
-After you apply all your labels, your issue should have a #mozsprint label, your challenge label, and possibly a help-wanted or question label.
+After you apply all your labels, your issue should have a #mozsprint label, your challenge label, and possibly a site-related, help-wanted, or question label.
 
 If you'd like to learn even more about GitHub, check out the [*GitHub for Collaboration* section](https://mozilla.github.io/open-leadership-training-series/articles/github-for-collaboration/) of Mozilla's [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/articles/github-for-collaboration/).
 
