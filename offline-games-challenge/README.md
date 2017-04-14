@@ -1,37 +1,61 @@
-#Mozilla Privacy Arcade, a 2017 Global Sprint Project
+#Offline Games Challenge
 
-**Project Lead:** Chad Sansing
+**Challenge Leads:** Chad Sansing,
 
 ##Description
 
-Online safety isn’t a game, but learning about it can be.
+How might we teach the web even when we can't reach it?
 
-It’s more important than ever to understand the choices we face online about privacy and security. Choosing the right apps, devices, habits, and services to protect ourselves can be difficult.
+That's the questions this Offline Games Challenge seeks to answer.
 
-How can we keep ourselves safe - and how can we keep our data private - when so many businesses and governments want to know everything we do on the Internet?
+For the Mozilla Privacy Arcade Offline Game Challenge, your job is to invent games that let players:
 
-On a healthy Internet, privacy doesn’t mean you have something to hide. It means you have the ability to choose who knows where you go and what you do. At Mozilla, we work to provide tools and fight for policies that respect people’s identity and data across the Internet. 
+- ***Participate in a fun, safe, and inviting environment*** that welcomes players of diverse backgrounds.
+- ***Enact strong online safety habits*** through offline childhood, playground, and tabletop games.
+- ***Enact core Internet health principles,*** such as digital inclusion. For example, if you incorporated privacy and digital inclusion into your game, part of winning might be making sure that all players successfully finish the game together in different ways or by using different roles.
+- ***Make their learning as visible or invisible as they want.*** For example, players should be able to look like they're playing a harmless game in places where its difficult for them to teach and learn about privacy and security in the open.
+- ***Make connections and transfer skills*** between their games and real-life opportunities to practice online safety.
 
-During the 2017 Global Sprint, we invite you to do the same by contributing to the Mozilla Privacy Arcade. 
+Here are some ideas to get you started. For example, you might:
 
-The Mozilla Privacy Arcade is a set of 3, game-based privacy and security challenges meant to help people learn strong online safety habits in fun, low-risk ways.
+- ***Invent a game of information keep-away*** to show how encrypted packets keep their contents secret while traveling across the web.
+- ***Adapt a popular social, collaborative game like Werewolf*** (sometimes called [Mafia](https://en.wikipedia.org/wiki/Mafia_%28party_game%29#Gameplay)) to encourage players to work together to identify a data thief among them.
+- ***Craft or repurpose a board game*** that lets players collect everything they need to practice strong privacy and security habits online.
 
-##Our Challenges
+Share your adventure in the Offline Games Challenge folder of our Mozilla Privacy Arcade repo and keep us up-to-date on your work by tweeting at [@MozLearn](https://twitter.com/mozlearn) with the hashtag #mozsprint. More about repos below.
 
-Click through the link on each Mozilla Privacy Arcade challenge to learn how to get involved:
+##What Kinds of Skills Do I Need? What Kinds of Things Can I Make?
 
-- [The Cryptomancer Challenge.](/cryptomancer-challenge/)
-- [Privacy and Security Game Jam Challenge.](/game-jam-challenge/)
-- [The IoT Escape Room Challenge.](/iot-escape-room-challenge/)
+There are lots of ways to contribute to this project that use different skills and talents. For example:
 
-Each folder will have a copy of our Code of Conduct and Participation Guidelines, as well a README describing its challenge.
+- Someone who loves to tell stories might invent several games and share them by explaining their user stories, or the ways players might experience those games.
+- Someone who loves to draw might design game boards or pieces or illustrate other contributors' ideas for games.
+- Someone who loves design might gather a bunch of friends during the sprint to play-test several contributors' games and offer feedback on them for revision.
+- Someone who loves to teach might invent a game and create a lesson plan for it or for another contributor's game.
+- Someone who loves to code might adapt a game into an online prototype people can play on the web before they learn how to play it offline.
+
+All of our contributors and their work deserve care and thanks.
+
+If you're unsure of what to contribute or how to contribute a piece of work, never hesitate to ask a project lead for help. We are here to support you and will be answering questions throughout the sprint.
+
+##Are You New to Game Design?
+
+Whether know a million games or are new to game design or the Global Sprint, we want you to feel welcome contributing to the project of your choice.
+
+These resources might help you get started with inventing childhood, playground, and tabletop games.
+
+- [Build Your Own Board Game](http://www.instructables.com/id/Build-your-Own-Board-Game/)
+- [10 Fun Games from Around the World](http://www.parents.com/fun/games/educational/games-from-around-the-world/)
+- [What deduction games like Werewolf tell us about ourselves](http://boingboing.net/2014/11/11/what-social-deduction-games-li.html)
+- [How to write rules (without confusing people).](http://numberless.net/blog/2007/04/09/how-to-write-rules-without-confusing-people/)
+- [11 Rules for Board Game Rules Writing](http://ryanmacklin.com/2015/02/11-rules-board-game-writing/)
 
 ##Can I Get To Work Before the Sprint?
 
 Of course. It's fine to begin the sprint with work already in-hand. You should feel free to set up for the sprint however you'd like. You might:
 
-- Make some designs, puzzle, or story ideas for feedback during the sprint.
-- Put together a team to begin work now and continue it after the sprint. You can do this online through your network or in our project's issue tracker. You can also recruit a team to work face-to-face in your community.
+- Invent some games beforehand to test during the sprint.
+- Research childhood, playground, or table-top games that people play around the world for inspiration.
 - Reserve space now to host a "site" or meet-up during the sprint (see more details about hosting a site below).
 
 Just keep in mind that we're asking you to license the work openly so our everyone can use, adapt, and build upon your contributions (see more about licensing below). 
@@ -64,7 +88,7 @@ Thank you for your contributions to the challenges in our Mozilla Privacy Arcade
 
 GitHub can be challenging for new users. If you experience difficulty with it, you are not alone. We want to help you overcome those challenges or find a way to contribute that works for you.
 
-For this project in the Global Sprint, we can use a feature called the "Issue Tracker" in GitHub to communicate with one another. It's kind of like a shared message board combined with a to-do list. To address an issue to a specific person, you add their name to the issue the same way you would to a tweet, like this for example: @chadsansing would address your GitHub issue to Chad, one of our project leads.
+For this project in the Global Sprint, we can use a feature called the "Issue Tracker" in GitHub to communicate with one another. It's kind of like a shared message board combined with a to-do list. To address an issue to a specific person, you add their name to the issue the same way you would to a tweet, like this for example: @chadsansing would address your message to Chad, one of our project leads.
 
 If the Issue Tracker is too difficult to use, contact a project lead. We will work with you and help you find a way to contribute no matter what.
 
@@ -78,11 +102,14 @@ Here are some steps you can take to get started on GitHub if you'd like to try i
 
 4. Finally, click on the green "New Issue" button to the left of the page. You can then title your issue and add content. Specificity helps.
 
-Before you submit your issue, pick a label for it. You can choose one from the "Labels" dropdown menu to the right of your issue. Pick the label that goes with your Global Sprint project to help people working on the same project pay attention to your issue. We have project labels for:
+Before you submit your issue, pick a label or two for it. You can choose one from the "Labels" dropdown menu to the right of your issue. Add the light-green #mozsprint label to each issue to file and then pick the label that goes with the challenge you're working on during the sprint. This helps people find the people and issues associated with the challenge to which they're contributing. 
+
+We have challenge labels for:
 
 - cryptomancer-challenge (gold).
 - game-jam-challenge (purple).
 - iot-escape-room-challenge (green).
+- offline-game-challenge (orange)
 
 We also have labels for site-related news, as well as for finding help and answering questions:
 
@@ -114,7 +141,7 @@ This year’s Global Sprint runs for 48 hours from June 1st, 2017, to June 2nd, 
 
 ##How To Follow the Sprint Online
 
-We will be curating and sharing your work throughout the sprint, so keep in touch and let us know how things are going at [@MozLearn](https://twitter.com/mozlearn) on Twitter using the hashtag #mozsprint. 
+We will be curating and sharing your work throughout the sprint, so keep in touch and let us know how things are going at [@MozLearn](https://twitter.com/mozlearn) on Twitter using the hashtag #mozsprint.
 
 You can also see "Featured Projects" on Mozilla's [Network Pulse](https://www.mozillapulse.org/featured), our resource for sharing exciting events and resources with our community.
 
