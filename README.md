@@ -29,7 +29,7 @@ Click through the link on each Mozilla Privacy Arcade challenge to learn how to 
 
 Each folder will have a copy of our Code of Conduct and Participation Guidelines, as well a README describing its challenge.
 
-You'll also find a "vision" and "open canvas" for each project that illustrate goals, as well as "personas" thay might help you think of the kinds of people you can recruit to help you with your contributions to these challenges.
+You'll also find a "vision" and "open canvas" for each project that illustrate its goals, as well as "personas" that might help you think of people you can recruit to help you with your contributions to these challenges.
 
 Finally, each challenge has a "roadmap" detailing its timeline and deadlines.
 
