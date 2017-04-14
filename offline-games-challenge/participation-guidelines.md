@@ -1,4 +1,4 @@
-#Participation Guidelines
+# Participation Guidelines
 
 As contributors to the Mozilla Privacy Arcade Project, you agree to:
 

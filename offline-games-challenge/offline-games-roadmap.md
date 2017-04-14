@@ -1,4 +1,4 @@
-#Offline Games Challenge Roadmap
+# Offline Games Challenge Roadmap
 
 - **May, 2017:** Assemble teammates and resources for the offline games challenge. If you live in a place with a lot of local makerspaces and/or interest in this project, consider organizing a meet-up from 9-5, local time, each day of the sprint for face-to-face work.
 - **May 31, 2017:** Finish assembling teams and collecting resources ahead of the offline gameschallenge.
