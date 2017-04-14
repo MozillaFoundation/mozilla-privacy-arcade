@@ -2,6 +2,8 @@
 
 **Project Lead:** Chad Sansing
 
+![A title card for the project showing boardgame pieces and the words 'Mozilla Privacy Arcade'](images/mozilla-privacy-arcade-1.png)
+
 ## Description
 
 Online safety isn’t a game, but learning about it can be.
@@ -20,9 +22,9 @@ The Mozilla Privacy Arcade is a set of 4, game-based privacy and security challe
 
 Click through the link on each Mozilla Privacy Arcade challenge to learn how to get involved:
 
-- [The Cryptomancer Challenge.](/cryptomancer-challenge/)
+- [Cryptomancer Challenge.](/cryptomancer-challenge/)
 - [Privacy and Security Game Jam Challenge.](/game-jam-challenge/)
-- [The IoT Escape Room Challenge.](/iot-escape-room-challenge/)
+- [IoT Escape Room Challenge.](/iot-escape-room-challenge/)
 - [Offline Games Challenge.](/offline-games-challenge/)
 
 Each folder will have a copy of our Code of Conduct and Participation Guidelines, as well a README describing its challenge.
