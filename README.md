@@ -87,9 +87,10 @@ Here are some steps you can take to get started on GitHub if you'd like to try i
 
 Before you submit your issue, pick a label for it. You can choose one from the "Labels" dropdown menu to the right of your issue. Pick the label that goes with your Global Sprint project to help people working on the same project pay attention to your issue. We have project labels for:
 
-- cryptomancer-challenge (gold).
-- game-jam-challenge (purple).
-- iot-escape-room-challenge (green).
+- mpa-cryptomancer-challenge (gold).
+- mpa-game-jam-challenge (purple).
+- mpa-iot-escape-room-challenge (green).
+- mpa-offline-games-challenge (orange).
 
 We also have labels for site-related news, as well as for finding help and answering questions:
 
