@@ -22,10 +22,10 @@ The Mozilla Privacy Arcade is a set of 4, game-based privacy and security challe
 
 Click through the link on each Mozilla Privacy Arcade challenge to learn how to get involved:
 
-- [Cryptomancer Challenge.](/cryptomancer-challenge/)
-- [Privacy and Security Game Jam Challenge.](/game-jam-challenge/)
-- [IoT Escape Room Challenge.](/iot-escape-room-challenge/)
-- [Offline Games Challenge.](/offline-games-challenge/)
+- [Cryptomancer Challenge.](https://github.com/MozillaFoundation/mpa-cryptomancer-challenge/)
+- [Privacy and Security Game Jam Challenge.](https://github.com/MozillaFoundation/mpa-game-jam-challenge/)
+- [IoT Escape Room Challenge.](https://github.com/MozillaFoundation/mpa-iot-escape-room-challenge/)
+- [Offline Games Challenge.](https://github.com/MozillaFoundation/mpa-offline-games-challenge/)
 
 Each folder will have a copy of our Code of Conduct and Participation Guidelines, as well a README describing its challenge.
 
